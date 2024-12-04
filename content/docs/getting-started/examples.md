@@ -1,8 +1,6 @@
 +++
 title = "Examples"
 description = "Examples using OpenVAF compiled models with ngspice"
-date = 2022-12-16T08:20:00+00:00
-updated = 2022-12-16T08:20:00+00:00
 draft = false
 weight = 40
 sort_by = "weight"

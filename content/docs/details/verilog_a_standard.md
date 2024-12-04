@@ -1,8 +1,6 @@
 +++
 title = "Verilog-A Standard Compliance"
 description = "Contribute to AdiDoks, improve documentation, or submit to showcase."
-date = 2022-12-01T08:00:00+00:00
-updated = 2022-12-01T08:00:00+00:00
 draft = false
 weight = 440
 sort_by = "weight"

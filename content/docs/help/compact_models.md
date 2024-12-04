@@ -1,8 +1,6 @@
 +++
 title = "Available compact models"
 description = "Answers to frequently asked questions."
-date = 2022-12-01T18:10:00+00:00
-updated = 2022-12-01T18:10:00+00:00
 draft = false
 weight = 40
 sort_by = "weight"

@@ -1,8 +1,6 @@
 +++
 title = "OSDI - Simulator Interface"
 description = "OSDI is a simulator independent interface that can revolutionize compact model standardization."
-date = 2022-12-01T08:00:00+00:00
-updated = 2022-12-01T08:00:00+00:00
 draft = false
 weight = 470
 sort_by = "weight"

@@ -1,8 +1,6 @@
 +++
 title = "Downloads"
 description = "Download precompiled executables of OpenVAF"
-date = 2023-05-16T08:00:00+00:00
-updated = 2023-05-16T08:00:00+00:00
 draft = false
 
 [extra]

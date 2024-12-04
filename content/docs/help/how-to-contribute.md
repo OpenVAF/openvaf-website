@@ -1,8 +1,6 @@
 +++
 title = "Contributing and Support"
 description = "How to contribute to OpenVAF and get support"
-date = 2022-12-01T18:10:00+00:00
-updated = 2022-12-01T18:10:00+00:00
 draft = false
 weight = 410
 sort_by = "weight"

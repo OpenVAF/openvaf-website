@@ -1,8 +1,6 @@
 +++
 title = "Compiler Internals"
 description = "Contributor Covenant Code of Conduct."
-date = 2022-12-16T18:20:00+00:00
-updated = 2022-12-16T18:20:00+00:00
 draft = false
 weight = 500
 sort_by = "weight"

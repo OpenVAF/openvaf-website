@@ -1,8 +1,6 @@
 +++
 title = "Performance"
 description = "A list of benchmarks that showcase the performance of OpenVAF"
-date = 2022-12-01T18:10:00+00:00
-updated = 2022-12-01T18:10:00+00:00
 draft = false
 weight = 400
 sort_by = "weight"

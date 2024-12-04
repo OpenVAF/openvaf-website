@@ -1,8 +1,6 @@
 +++
 title = "Introduction"
 description = "Introduction to compact models, Verilog-A and why they are critical for economic circuit design."
-date = 2022-12-01T08:00:00+00:00
-updated = 2022-12-01T08:00:00+00:00
 draft = false
 weight = 5
 sort_by = "weight"

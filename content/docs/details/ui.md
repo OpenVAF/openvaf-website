@@ -1,8 +1,6 @@
 +++
 title = "User Interface"
 description = "OpenVAF provides state-of-the-art compiler diagnostics."
-date = 2022-12-01T08:00:00+00:00
-updated = 2022-12-01T08:00:00+00:00
 draft = false
 weight = 510
 sort_by = "weight"

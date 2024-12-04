@@ -1,7 +1,5 @@
 +++
 title = "Contributor License Agreement"
-date = 2023-04-27T08:00:00+00:00
-updated = 2023-04-27T08:00:00+00:00
 draft = false
 
 [extra]

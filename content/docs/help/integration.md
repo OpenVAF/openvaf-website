@@ -1,8 +1,6 @@
 +++
 title = "Integration Service"
 description = "Integrate OpenVAF with your Simulator."
-date = 2022-12-01T18:10:00+00:00
-updated = 2022-12-01T18:10:00+00:00
 draft = false
 weight = 1000
 sort_by = "weight"

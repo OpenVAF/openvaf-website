@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>OpenVAF</title>
+    <subtitle>OpenVAF | A Verilog-A compiler for the 21st century</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://openvaf.github.io/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://openvaf.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-06-27T09:19:42+00:00</updated>
+    <id>https://openvaf.github.io/atom.xml</id>
+    <entry xml:lang="en">
+        <title>OSDI integration in VACASK Circuit Simulator</title>
+        <published>2024-06-27T09:19:42+00:00</published>
+        <updated>2023-06-27T09:19:42+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://openvaf.github.io/blog/vacask/"/>
+        <id>https://openvaf.github.io/blog/vacask/</id>
+        
+        <content type="html" xml:base="https://openvaf.github.io/blog/vacask/">&lt;p&gt;Recently, Arpad Bürmen has released the &lt;a href=&quot;https:&#x2F;&#x2F;codeberg.org&#x2F;arpadbuermen&#x2F;VACASK&quot;&gt;VACASK&lt;&#x2F;a&gt; circuit simulator
+which makes heavy use of the OpenVAF circuit simulator for compiling its device models.
+It is also exciting to see that several bugfixes for OpenVAF have been released in &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;arpadbuermen&#x2F;OpenVAF&quot;&gt;his clone&lt;&#x2F;a&gt; of our OpenVAF repository.
+We are happy to see this development and hope this new tool will have a substantial impact on the open-source community.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>SemiMod stops support of OpenVAF</title>
+        <published>2024-06-25T09:19:42+00:00</published>
+        <updated>2023-06-25T09:19:42+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://openvaf.github.io/blog/pascal/"/>
+        <id>https://openvaf.github.io/blog/pascal/</id>
+        
+        <content type="html" xml:base="https://openvaf.github.io/blog/pascal/">&lt;p&gt;Unfortunately, the former main developer of OpenVAF has left SemiMod and is no longer active in the OpenVAF project.
+Due to additional issues that will not me bade public, SemiMod is no longer able to financially support this great project.&lt;&#x2F;p&gt;
+&lt;p&gt;Still, the power of open-source will carry the project on. Several individuals have started to fix bugs in their clones of the repository
+and further develop OpenVAF.
+OpenVAF is used on a daily basis by many people and we sincerely hope it will remain useful for the whole community.
+We especially thank IHP for their valuable support.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>OSDI Integration in Spice OPUS</title>
+        <published>2023-04-18T09:19:42+00:00</published>
+        <updated>2023-04-18T09:19:42+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://openvaf.github.io/blog/spice-opus/"/>
+        <id>https://openvaf.github.io/blog/spice-opus/</id>
+        
+        <content type="html" xml:base="https://openvaf.github.io/blog/spice-opus/">&lt;p&gt;The &lt;a href=&quot;https:&#x2F;&#x2F;www.spiceopus.si&#x2F;&quot;&gt;Spice OPUS&lt;&#x2F;a&gt; developers have recently integrated our OSDI interface into their simulator (release 3.0) and thereby
+enabled Verilog-A support in their tool. We are very excited to hear this and wish them all the best!&lt;&#x2F;p&gt;
+&lt;p&gt;This shows that the OSDI documentation is on a level that enables other developers to independently
+integrate OSDI into their simulators.
+Also, the Spice OPUS devs have contributed valuable feedback to further improve OpenVAF.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>OpenVAF at Analog Working Group</title>
+        <published>2023-03-21T09:19:42+00:00</published>
+        <updated>2023-03-21T09:19:42+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://openvaf.github.io/blog/awg-23-03-23/"/>
+        <id>https://openvaf.github.io/blog/awg-23-03-23/</id>
+        
+        <content type="html" xml:base="https://openvaf.github.io/blog/awg-23-03-23/">&lt;p&gt;The &lt;a href=&quot;https:&#x2F;&#x2F;www.chipsalliance.org&#x2F;workgroups&#x2F;&quot;&gt;analog working group&lt;&#x2F;a&gt; of the chips alliance organization
+had a meeting on 21st. March 2023 where OpenVAF was presented.
+Legendary Ken Kundert (Spectre creator) and SemiMod (represented by Pascal Kuthe) gave presentations
+on OpenVAF and its benefits to the EDA ecosystem.
+After the talks, there was a productive discussion regarding the current state of Verilog-A and funding opportunities
+for OpenVAF.
+You can find a recording of the meeting and the presentations, &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=4Cf00ZeueNc&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>OpenVAF Official Release</title>
+        <published>2023-02-03T09:19:42+00:00</published>
+        <updated>2023-02-03T09:19:42+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://openvaf.github.io/blog/release/"/>
+        <id>https://openvaf.github.io/blog/release/</id>
+        
+        <content type="html" xml:base="https://openvaf.github.io/blog/release/">&lt;p&gt;Today is another day for celebration:&lt;&#x2F;p&gt;
+&lt;p&gt;The OpenVAF beta test phase is completed and we have uploaded a first release version of OpenVAF that is not
+considered &quot;beta&quot; anymore.
+OpenVAF integration is now available in the latest Ngspice release and can thus reach a broader audience.&lt;&#x2F;p&gt;
+&lt;p&gt;We have received many bug reports that helped us improve the software.
+In particular rigorous testing of OpenVAF by the Ngspice team must be acknowledged here.&lt;&#x2F;p&gt;
+&lt;p&gt;We hope to be able to attend a few conferences this year and meet face-to-face with people that use OpenVAF.
+Furthermore, we have some exciting news that we cannot share yet, so stay tuned!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>OpenVAF Beta Launch</title>
+        <published>2022-12-16T09:19:42+00:00</published>
+        <updated>2022-12-16T09:19:42+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://openvaf.github.io/blog/beta-launch/"/>
+        <id>https://openvaf.github.io/blog/beta-launch/</id>
+        
+        <content type="html" xml:base="https://openvaf.github.io/blog/beta-launch/">&lt;p&gt;Today, after long development, we have finally reached a long awaited development milestone:
+A beta version of OpenVAF is now available to a limited group of people.
+Furthermore, we are also launching a first version of the OpenVAF website which contains documentation,
+examples, technical details and benchmarks.&lt;&#x2F;p&gt;
+&lt;p&gt;While we are proud of what OpenVAF can do today, there is a long journey ahead of us as we continue to improve both OpenVAF and the documentation.
+OpenVAF already outperforms all other Verilog-A compilers that &lt;a href=&quot;..&#x2F;..&#x2F;docs&#x2F;details&#x2F;performance&quot;&gt;have been benchmarked by us&lt;&#x2F;a&gt;.
+Furthermore, support for &lt;a href=&quot;..&#x2F;..&#x2F;docs&#x2F;details&#x2F;osdi&quot;&gt;OSDI&lt;&#x2F;a&gt; &lt;strong&gt;is available in the ngspice pre-master branch today&lt;&#x2F;strong&gt;
+and will be included in the ngspice 39 release.&lt;&#x2F;p&gt;
+&lt;p&gt;If you don&#x27;t mind building the Ngspice pre-master branch yourself, you can already try out &lt;a href=&quot;..&#x2F;..&#x2F;docs&#x2F;getting-started&#x2F;examples&quot;&gt;some OpenVAF examples&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
